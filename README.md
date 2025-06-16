@@ -1,7 +1,7 @@
 # Enhancing Novel View Synthesis with Adaptive Random Patch Radiance Fields
 
 This repository contains the implementation of the method described in the paper "Enhancing Novel View Synthesis with Adaptive Random Patch Radiance Fields".
-
+Submitted to **The Visual Computer** (Springer Journal).
 ## Installation
  
 #### Tested on Ubuntu 20.04 + Pytorch 1.10.1 
